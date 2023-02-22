@@ -170,3 +170,4 @@ The recognizable commands by the interpreter are the following:
 ## Author
 
 Emmanuel Makonde
+
